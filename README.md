@@ -6,6 +6,10 @@ GALG uses the framework of Graph Auto-encoder and adversarial training to learn 
 
 ![The framework of GALG](images/galg.png)
 
+The work is introduced in the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML/PKDD 2022):
+
+> Tianyu Cui, GangXiong, ChangLiu, JunzhengShi, PeipeiFu, GaopengGou. GALG: Linking Addresses in Tracking Ecosystem Using Graph Autoencoder with Link Generation. European Conference on Practice of Knowledge Discovery in Databases 2022.
+
 Note: this code is based on [GAE](https://github.com/tkipf/gae), [ARGA](https://github.com/GRAND-Lab/ARGA), [GAT](https://github.com/PetarV-/GAT), and [Link Prediction Experiments](https://github.com/lucashu1/link-prediction). Many thanks to the authors.
 
 ## Requirements
