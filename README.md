@@ -29,7 +29,7 @@ python main.py
 
 ## Data
 
-Here we only provide the public dataset we used. The other datasets will be made publicly available on acceptance.
+For privacy consideration, here we only provide the public dataset we used in the paper.
 
 * `CSTNET`: [CSTNET](https://github.com/CuiTianyu961030/SiamHAN) is a public dataset collected from March to July 2018 on China Science and Technology Network (CSTNET). 
 
